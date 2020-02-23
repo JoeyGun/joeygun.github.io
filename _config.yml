@@ -2,7 +2,7 @@
 title: KK Blog
 SEOTitle: KK Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: blingblingda@hotmail.com
 description: "good good study, day day up."
 keyword: "KK, KK Blog"
 url: "http://cyberickk.github.io"          # your host, for absolute URL
@@ -18,11 +18,11 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     
-zhihu_username:    
-github_username:    
-facebook_username: 
-jianshu_username:   
+# weibo_username:      
+#zhihu_username:    
+#github_username:    
+#facebook_username: 
+#jianshu_username:   
 #twitter_username:   
 
 
@@ -97,18 +97,18 @@ service-worker: true
 
 
 # Friends
-friends: [
-    {
-        title: "WY",
-        href: ""
-    },{
-        title: "简书·BY",
-        href: ""
-    },{
-        title: "Apple",
-        href: ""
-    },{
-        title: "Apple Developer",
-        href: ""
-    }
-]
+#friends: [
+#    {
+#        title: "WY",
+#        href: ""
+#   },{
+#       title: "简书·BY",
+#        href: ""
+#    },{
+#        title: "Apple",
+#        href: ""
+#    },{
+#        title: "Apple Developer",
+#        href: ""
+#    }
+#]
